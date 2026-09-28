@@ -23,4 +23,4 @@ Voici le programme. Chaque étape a son propre dossier avec ses instructions. To
 - Il n'y a pas de mauvaise question.
 - Bloqué plus de 10-15 minutes sur la même chose ? Viens voir ton mentor.
 - Le but n'est pas d'aller vite, c'est de comprendre ce que tu fais.
-- Tu peux committer et pousser ton travail au fur et à mesure si tu veux (pas obligatoire).
+- Tu peux committer ton travail au fur et à mesure si tu veux (pas obligatoire). Pas besoin de le pousser où que ce soit, ça reste sur ton ordinateur.
