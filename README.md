@@ -8,15 +8,15 @@ Voici le programme. Chaque étape a son propre dossier avec ses instructions. To
 
 | Horaire approx. | Étape | Dossier |
 |---|---|---|
-| 9h00 | Accueil, visite, présentation de l'équipe | - |
-| 9h30 | Échauffement HTML/CSS | [`01-warmup`](./01-warmup) |
-| 10h30 | Petit défi de logique (pas de code !) | [`02-logic-challenge`](./02-logic-challenge) |
-| 11h15 | Défi principal (partie 1) | [`03-main-challenge`](./03-main-challenge) |
-| 12h30 | Repas avec l'équipe | - |
-| 13h30 | Défi principal (suite) | [`03-main-challenge`](./03-main-challenge) |
-| 15h00 | Découverte d'un vrai ticket, en binôme | - |
-| 15h45 | Bonus si tu as le temps | [`04-bonus`](./04-bonus) |
-| 16h30 | Débrief de la journée | - |
+| 8h45 | Accueil, visite, présentation de l'équipe | - |
+| 9h15 | Échauffement HTML/CSS | [`01-warmup`](./01-warmup) |
+| 10h15 | Petit défi de logique (pas de code !) | [`02-logic-challenge`](./02-logic-challenge) |
+| 11h00 | Défi principal (partie 1) | [`03-main-challenge`](./03-main-challenge) |
+| 12h00 | Repas avec l'équipe | - |
+| 13h00 | Défi principal (suite) | [`03-main-challenge`](./03-main-challenge) |
+| 14h30 | Découverte d'un vrai ticket, en binôme | - |
+| 15h15 | Bonus si tu as le temps | [`04-bonus`](./04-bonus) |
+| 16h00 | Débrief de la journée | - |
 
 ## Quelques règles simples
 
